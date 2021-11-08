@@ -6,4 +6,4 @@ Title: "Revolution as Expectation: Revolutionary Histories and Decolonized Futur
 **Panellists**: Dr. Aparna Vaidik, Dr. Layli Uddin
 **Moderator**: Kamini Masood
 
-_Link to Panel_: https://www.facebook.com/ConferenceAntiColonialStrugglesSouthAsia/videos/153127716360612/
+<img src="https://fb.watch/98Zw72o3QS/" width="550" title="_Link to Panel_">
