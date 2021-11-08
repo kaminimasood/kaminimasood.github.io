@@ -3,6 +3,6 @@ Title: Résumé
 type: page
 ---
 
-<object data="/Masood Resume_Nov2021.pdf" type="application/pdf" width="800" height="1000">
+<object data="/Masood Resume_Nov2021.pdf" type="application/pdf" width="800" height="900">
   alt : <a href="/Masood Resume_Nov2021.pdf">test.pdf</a>
 </object>
