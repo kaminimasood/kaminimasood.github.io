@@ -16,5 +16,9 @@ I realized that fiction has an essential role to play in the study of history, e
 This post won’t so much advocate for the usage of fiction in teaching history as it will explain the ways in which I feel my own 
 experience of Russian history was affected by the addition of novels and short stories....
 
+<object data="/Masood Resume_Nov2021.pdf" type="application/pdf" width="300" height="200">
+  alt : <a href="/Masood Resume_Nov2021.pdf">test.pdf</a>
+</object>
+
 
 <a href="https://en.humsub.com.pk/59/fiction-helped-understand-history/">_Link to Publication_</a>
