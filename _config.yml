@@ -39,6 +39,7 @@ author:
 # Custom vars
 version: 3.0.0
 
+markdown: kramdown
 # Navbar page list
 nav:
   - title: Blog
