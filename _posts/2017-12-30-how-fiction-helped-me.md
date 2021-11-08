@@ -1,6 +1,6 @@
 ---
 layout: post
-Title: "How Fiction Helped Me Understand History"\
+Title: "How Fiction Helped Me Understand History"
 ---
 
 
