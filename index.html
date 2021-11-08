@@ -3,9 +3,10 @@ layout: default
 title: Home
 ---
 
-<h2>Welcome!</h2
+<h1>Welcome!</h1>
 <p>I'm a doctoral student and Richard Hofstadter Fellow in History with a specialization in Early Modern South Asia at <a href="https://twitter.com/Columbia">Columbia University</a>.</p>
 
+<h1>Latest Post</h1>
 <div class="posts">
   {% for post in paginator.posts %}
   <article class="post">
@@ -22,15 +23,4 @@ title: Home
   {% endfor %}
 </div>
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ paginator.next_page_path | relative_url }}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: relative_url }}">Newer</a>
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
+<h1>Click on Blog to Read More!</h2>
