@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "Hello. I'm Kamini Masood."
 email: "mailto:km3599@columbia.edu"
-description: "Intellectual and Environmental Historian"
+description: "I'm an environmental and intellectual historian."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kaminimasood.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 #twitter_username: 'jamigibbs'
