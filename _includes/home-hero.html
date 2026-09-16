@@ -27,7 +27,9 @@
 
           <div class="hero-buttons">
 
-            
+             {% if site.medium_username != '' %}
+              <a href="mailto:km3599@columbia.edu"><button class="btn btn-default btn-lg"></i>Email</button></a>
+            {% endif %}
             {% if site.github_username != '' %}
               <a href="https://www.linkedin.com/in/kamini-masood-13820a384/"><button class="btn btn-default btn-lg"></i>LinkedIn</button></a>
             {% endif %}
